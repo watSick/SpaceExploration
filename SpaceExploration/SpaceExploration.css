@@ -1,0 +1,50 @@
+body {
+    font-family: "Orbitron", sans-serif;
+   font-size: 35px;
+   text-align: center;
+   margin :0px;
+   
+   
+   }
+   .btn{
+       padding-top: 5px;
+       padding-bottom: 5px;
+       padding-left: 10px;
+       padding-right: 10px;
+       background-color: aqua;
+       border-radius: 10px;
+       border: none;
+       font-family: inherit;
+       background-color: #0e88d3;
+       color: orange;
+   }
+   .clr{
+       color: #ADD8E6;
+       background-color: black;
+    
+   }
+   .color{
+    color: aliceblue;
+    background-color:black;
+   }
+
+#ISRO{
+    width: 100px;
+    margin-top: 10px;
+}
+
+.CTA{
+    text-decoration: underline solid orange;
+}
+.under{
+    text-decoration: underline solid #0e88d3;
+}
+
+#hero-section {
+    background-image: url(giphyisro.gif);
+    background-size: cover;
+    padding: 10px 0px 200px 0px;
+    margin: 0;
+    text-shadow: 0px 0px 20px whitesmoke;
+
+}
